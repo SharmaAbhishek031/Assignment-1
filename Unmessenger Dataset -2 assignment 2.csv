@@ -1,0 +1,70 @@
+Id,Name,Age,Gender,Department,Email,Phone,Address,Status,Salary
+1,John Doe,32,M,HR,john.doe@gmail.com,91-1234567890,"123 Main St, Bangalore, Karnataka, India", ,4553
+2,Jane Smith,28,F,IT Department,jane.smith@hotmail.com,91-9876543210,"456 Park Ave, Mumbai, Maharashtra, India", ,31169
+3,Amit Patel,27,M,IT Devlopment,amit.patel@gmail.com,91-8765432109,"789 3rd St, Kolkata, West Bengal, India", ,11116
+4,Priya Sharma,33,F,SALES,priya.sharma@yahoo.com,91-5555555555,"12 4th St, New Delhi, Delhi, India", ,33457
+5,Jane Doe,29,F,SALES,jane.doe@gmail.com,,,Address not Available,21918
+6,Rakesh Kumar,34,M,DATA SCIENCE,rakesh.kumar@yahoo.com,,"345 5th St, Jaipur, Rajasthan, India", ,33418
+7,Divya Singh,25,F,IT Devlopment,divyasinghsupport@dataisgood,91-9999999999,"678 6th St, Chennai, Tamil Nadu, India", ,45828
+8,Aman Verma,31,M,SALES,aman.verma@gmail.com,91-8888888888,,Address not Available,45450
+9,Neha Gupta,27,F,SALES,neha.gupta@hotmail.com,91-7777777686,"901 7th St, Hyderabad, Telangana, India", ,49938
+10,Naveen Sharma,35,M,Operations,naveen.sharma@gmail.com,,"234 8th St, Pune, Maharashtra, India", ,9818
+11,Vinita Kapoor,29.5,F,IT Department,vinita.kapoor@yahoo.com,91-6666666575,"567 9th St, Ahmedabad, Gujarat, India", ,41836
+12,Rajeev Kumar,29,M,IT Department,rajeev.kumar@hotmail.com,91-5555555464,"789 10th St, Bangalore, Karnataka, India", ,11901
+14,Swati Singh,28,F,HR,swati.singh@gmail.com,,"654 12th St, Kolkata, West Bengal, India", ,21978
+15,Kavita Sharma,30,F,Finance/Accounts,kavita.sharma@yahoo.com,91-8888888797,,Address not Available,49400
+16,Manish Patel,32,M,Mangement,manish.patel@hotmail.com,91-1234567799,"987 13th St, New Delhi, Delhi, India", ,28476
+17,Priyanka Jain,26,F,DATA SCIENCE,priyanka.jain@yahoo.com,91-8765432018,,Address not Available,40088
+18,Rohit Sharma,28,M,DATA SCIENCE,rohit.sharma@gmail.com,91-9876543119,"654 14th St, Jaipur, Rajasthan, India", ,2949
+19,Deepika Singh,30,F,DATA SCIENCE,deepika.singh@yahoo.com,91-5555555464,"321 15th St, Chennai, Tamil Nadu, India", ,3337
+20,Vikas Joshi,32,M,Finance/Accounts,vikas.joshi@gmail.com,91-9999999908,,Address not Available,2857
+21,Nisha Verma,26,F,Mangement,nisha.verma@hotmail.com,,"789 16th St, Hyderabad, Telangana, India", ,35969
+22,Manoj Kumar,33,M,DATA SCIENCE,manoj.kumar@yahoo.com,91-8888888797,"901 17th St, Pune, Maharashtra, India", ,49681
+24,Sanjay Gupta,29,M,Operations,sanjay.gupta@gmail.com,9191-6666666666,,Address not Available,15853
+25,Anjali Sharma,29.5,F,IT Department,anjali.sharma@yahoo.com,91-5555555464,"567 19th St, Bangalore, Karnataka, India", ,6926
+26,Akash Patel,31,M,Finance/Accounts,akash.patel@hotmail.com,,"789 20th St, Mumbai, Maharashtra, India", ,45678
+27,Preeti Singh,28,F,Mangement,preeti.singh@gmail.com,91-7777777686,"321 21st St, Kolkata, West Bengal, India", ,8022
+28,Ravi Kumar,34,M,DATA SCIENCE,ravi.kumar@gmail.com,91-8888888797,"901 22nd St, Patna, Bihar, India", ,3484
+29,Swati MisHRa,26,F,IT Devlopment,swati.misHRa@yahoo.com,91-7777777686,"234 23rd St, Bhopal, Madhya Pradesh, India", ,11342
+30,Ankit Singh,29,M,SALES,ankit.singh@hotmail.com,,"567 24th St, Lucknow, Uttar Pradesh, India", ,40940
+31,Neha Gupta,27,F,SALES,neha.gupta@gmail.com,91-5555555464,,Address not Available,41841
+32,Rajeev Sharma,32,M,Finance/Accounts,rajeev.sharma@yahoo.com,,"789 25th St, Jaipur, Rajasthan, India", ,39835
+33,Sarika Patel,33,F,Mangement,sarika.patel@hotmail.com,91-6666666575,"654 26th St, Chennai, Tamil Nadu, India", ,9577
+34,Vinay Singh,30,M,DATA SCIENCE,vinay.singh@gmail.com,,"321 27th St, Hyderabad, Telangana, India", ,29480
+35,Priya Gupta,29.5,F,IT Devlopment,priya.gupta@yahoo.com,91-5555555464,"901 28th St, Pune, Maharashtra, India", ,14254
+36,Sushant Patel,29,M,SALES,sushant.patel@hotmail.com,91-7777777686,"567 29th St, Ahmedabad, Gujarat, India", ,37358
+37,Payal Sharma,31,F,SALES,payal.sharma@gmail.com,,"234 30th St, Bangalore, Karnataka, India", ,48367
+38,Mohit Verma,28,M,HR,mohit.verma@yahoo.com,91-8888888797,"789 31st St, Mumbai, Maharashtra, India", ,37473
+39,Kavita Singh,33,F,HR,kavita.singh@hotmail.com,91-9999999908,"901 32nd St, Kolkata, West Bengal, India", ,30628
+40,Ankit Patel,30,M,OperarYION,ankit.patel@gmail.com,,"321 33rd St, Patna, Bihar, India", ,22018
+41,Pooja MisHRa,27,F,DATA SCIENCE,pooja.misHRa@yahoo.com,91-7777777686,"234 34th St, Bhopal, Madhya Pradesh, India", ,35747
+42,Mohan Kumar,29,M,SALES,mohan.kumar@gmail.com,,"567 35th St, Lucknow, Uttar Pradesh, India", ,32258
+43,Anjali Gupta,26,F,Finance/Accounts,anjali.gupta@hotmail.com,91-5555555464,"654 36th St, Jaipur, Rajasthan, India", ,31047
+44,Mukesh Sharma,28,M,Mangement,mukesh.sharma@yahoo.com,,"789 37th St, Chennai, Tamil Nadu, India", ,31064
+45,Arjun Singh,31,M,DATA SCIENCE,arjun.singh@gmail.com,91-8888888797,,Address not Available,3108
+46,Divya Patel,27,F,HR,divya.patel@yahoo.com,91-7777777686,"567 38th St, Hyderabad, Telangana, India", ,20205
+47,Gaurav Kumar,29,M,HR,gaurav.kumar@gmail.com,,"234 39th St, Pune, Maharashtra, India", ,8746
+48,Aditi Shah,32,F,IT Devlopment,aditi.shah@hotmail.com,91-6666666575,"901 40th St, Ahmedabad, Gujarat, India", ,15531
+49,Sandeep Singh,29.5,M,SALES,sandeep.singh@yahoo.com,91-5555555464,"321 41st St, Bangalore, Karnataka, India", ,23055
+50,Shalini Sharma,30,F,SALES,shalini.sharma@gmail.com,,"789 42nd St, Mumbai, Maharashtra, India", ,18647
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Age,,,,,,,,
+,,,,,,,,,
+,Mean,29.5,,,,,,,
+,Standard Error,0.377827505,,,,,,,
+,Median,29,,,,,,,
+,Mode,29,,,,,,,
+,Standard Deviation,2.562550813,,,,,,,
+,Sample Variance,6.566666667,,,,,,,
+,Kurtosis,-0.86895724,,,,,,,
+,Skewness,0.265079665,,,,,,,
+,Range,10,,,,,,,
+,Minimum,25,,,,,,,
+,Maximum,35,,,,,,,
+,Sum,1357,,,,,,,
+,Count,46,,,,,,,
